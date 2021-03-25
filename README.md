@@ -1,2 +1,2 @@
-# Simulador-
+# Simulador
 Simulador de Juros Compostos
